@@ -1,3 +1,4 @@
+# KR2: Voikin
 import os
 import socket
 
